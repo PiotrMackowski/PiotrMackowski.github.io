@@ -42,7 +42,7 @@ plugins:
 author:
   name   : "Piotr Maćkowski"
   avatar : "/assets/images/personal-photo.jpg"
-  bio    : "Security by Day, Chess by Night."
+  bio    : "let’s ship this in the most secure way possible"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
