@@ -4,9 +4,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-                  <a class="site-logo" href="{{ '/' | relative_url }}"><img src="/assets/images/logo.jpeg" alt="{{ site.masthead_title | default: site.title }}"></a>
+                  <a class="site-logo" href="{{ '/' | relative_url }}"><img src="/assets/images/logo.png" alt="{{ site.masthead_title | default: site.title }}"></a>
                 <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title }}
+          {{ site.masthead_title | default: "" }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
