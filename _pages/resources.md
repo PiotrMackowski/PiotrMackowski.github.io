@@ -13,6 +13,10 @@ This is a collection of valuable resources that I've found helpful throughout my
  - [The Azure Security Podcast](https://open.spotify.com/show/6AZVRZWttZdYkvlSAXjiGK?si=32c32230a75749a3)
 
 ## Cloud
+- [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
+- [CloudSecDocs](https://cloudsecdocs.com/)
+- [Cloud Security Wiki](https://www.secwiki.cloud/)
+
 ### Azure
 - [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy)
 - [Azure Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/microsoft-azure-cheat-sheets/)
@@ -33,7 +37,6 @@ This is a collection of valuable resources that I've found helpful throughout my
  - [Terraform Cheat Sheet](https://cheat-sheets.nicwortel.nl/terraform-cheat-sheet.pdf)
  - [Hashicorp's tutorials](https://developer.hashicorp.com/terraform/tutorials)
  - [Terraform: Up & Running](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906)
- - []()
 
 ## Kubernetes
  - [Killer.sh simulators](https://killer.sh/)
@@ -50,6 +53,7 @@ This is a collection of valuable resources that I've found helpful throughout my
  - [badssl.com](https://badssl.com/)
  - [TryHackMe](https://tryhackme.com/) - practice makes perfect!
  - [OSINT Framework](https://osintframework.com/)
+ - [Awesome Security](https://github.com/sbilly/awesome-security)
 
 ## Communities, events, networking
  - [ISSA Polska](https://issa.org.pl/) - Information Systems Security Association
@@ -81,3 +85,11 @@ This is a collection of valuable resources that I've found helpful throughout my
 - [A proper technical how-to guide](https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-I/)
 - [Favicon](https://peateasea.de/add-favicon-to-mm-jekyll-site/)
 
+## Miscellaneous
+- [Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [GitHub Education - for students](https://github.com/education)
+- [security automation blog](https://www.infernux.no/)
+- [Nick Jones](https://www.nojones.net/)
+- [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/)
+- [Cyber Security Roadmap](https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
