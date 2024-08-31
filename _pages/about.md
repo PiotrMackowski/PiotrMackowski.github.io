@@ -8,8 +8,10 @@ title: ""
 ## **I am passionate about cloud security**
 - 💼 I work as a Cloud Engineer focusing on the security of Azure. 
 - 🚀 I am currently exploring AWS and GCP security concepts. 
-- 🤝🏻 I am always eager to connect with other experts, please feel free to reach out to me for a chat.
+- 🤝🏻 I am always eager to connect with others, please feel free to reach out to me for a chat.
 - 🛡  I am a member of the Microsoft Security Connection Program.
+
+The views expressed in this blog are my own and do not represent the views of any employer or organization.
 
 <h2>Certifications and Achievements 🏅</h2>
 

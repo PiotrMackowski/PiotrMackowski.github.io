@@ -4,13 +4,7 @@ title: "Resources"
 author_profile: false 
 ---
 
-This is a collection of valuable resources that I've found helpful throughout my journey. While it may not capture everything that's out there, I aim to include only those resources that I have personally used and can genuinely vouch for.
-
-## Podcasts
- - [CyberWire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe?si=77a3a53d1e714763)
- - [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=84f0ae2af5fe4a69)
- - [Cloud Security Podcast](https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I?si=3f27a4242bfc4b3a)
- - [The Azure Security Podcast](https://open.spotify.com/show/6AZVRZWttZdYkvlSAXjiGK?si=32c32230a75749a3)
+This is a collection of valuable resources that I've found helpful throughout my journey. While it may not capture everything that's out there, I aim to include only those resources that I have personally used and can genuinely vouch for. There are no referral links, and the resources are listed in no particular order.
 
 ## Cloud
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
@@ -67,7 +61,13 @@ This is a collection of valuable resources that I've found helpful throughout my
  - [CrankySec](https://crankysec.com/)
  - [r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
  - [r/netsec](https://www.reddit.com/r/netsec/)
- - [Microsoft'S Security Connection Program](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-new-microsoft-security-connection-program/ba-p/3733595)
+ - [Microsoft's Security Connection Program](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-new-microsoft-security-connection-program/ba-p/3733595)
+
+ ## Podcasts
+ - [CyberWire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe?si=77a3a53d1e714763)
+ - [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=84f0ae2af5fe4a69)
+ - [Cloud Security Podcast](https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I?si=3f27a4242bfc4b3a)
+ - [The Azure Security Podcast](https://open.spotify.com/show/6AZVRZWttZdYkvlSAXjiGK?si=32c32230a75749a3)
 
 ## Personal development
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
@@ -78,18 +78,19 @@ This is a collection of valuable resources that I've found helpful throughout my
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 - [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
+## Miscellaneous
+- [Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [GitHub Education - for students](https://github.com/education)
+- [Security automation blog](https://www.infernux.no/)
+- [Nick Jones's blog](https://www.nojones.net/)
+- [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/)
+- [Cyber Security Roadmap](https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Google's SRE Books](https://sre.google/books/)
+
 ## Blog
 - [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/)
 - [Jekyll wiki](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
 - [Icons](https://fontawesome.com/icons)
 - [A proper technical how-to guide](https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-I/)
 - [Favicon](https://peateasea.de/add-favicon-to-mm-jekyll-site/)
-
-## Miscellaneous
-- [Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
-- [GitHub Education - for students](https://github.com/education)
-- [security automation blog](https://www.infernux.no/)
-- [Nick Jones](https://www.nojones.net/)
-- [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/)
-- [Cyber Security Roadmap](https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
