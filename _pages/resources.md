@@ -63,7 +63,7 @@ This is a collection of valuable resources that I've found helpful throughout my
  - [r/netsec](https://www.reddit.com/r/netsec/)
  - [Microsoft's Security Connection Program](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-new-microsoft-security-connection-program/ba-p/3733595)
 
- ## Podcasts
+## Podcasts
  - [CyberWire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe?si=77a3a53d1e714763)
  - [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=84f0ae2af5fe4a69)
  - [Cloud Security Podcast](https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I?si=3f27a4242bfc4b3a)
@@ -93,4 +93,4 @@ This is a collection of valuable resources that I've found helpful throughout my
 - [Jekyll wiki](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
 - [Icons](https://fontawesome.com/icons)
 - [A proper technical how-to guide](https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-I/)
-- [Favicon](https://peateasea.de/add-favicon-to-mm-jekyll-site/)
+- [Favicons](https://peateasea.de/add-favicon-to-mm-jekyll-site/)
