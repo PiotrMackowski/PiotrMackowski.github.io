@@ -14,7 +14,8 @@ Their [Customer Connection Program's](https://www.aka.ms/JoinCCP) come in a few 
 - Data Security and Privacy,
 - Security,
 - Management (Windows, Intune, endpoints),
-- Microsoft Entra Advisors.
+- Microsoft Entra Advisors,
+- Copilot for Security.
 
 For example, joining the Security Customer Connection Program offers you the chance to engage in community calls, private previews, and focus groups with Microsoft's product teams specializing in SIEM & XDR, Defender for Cloud, and Network Security. I am grateful for the valuable insights and the opportunity to influence the products. This can be your launchpad to joining a podcast or having a 1:1 with an engineer to discuss a topic of your choice. 
 Please note, even though they are referred to as 'customer' connection programs, you can also apply if you work for a Partner of Microsoft (many MSP's are member of the partner network), and other cloud solution providers.  
