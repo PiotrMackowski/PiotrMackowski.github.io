@@ -11,7 +11,7 @@ title: ""
 - 🤝🏻 I am always eager to connect with others, please feel free to reach out to me for a chat.
 - 🛡  I am a member of the Microsoft Security Connection Program.
 
-The views expressed in this blog are my own and do not represent the views of any employer or organization.
+This is my personal site and content is my own. The views and opinions expressed in this blog do not represent any employer or organization.
 
 <h2>Certifications and Achievements 🏅</h2>
 
