@@ -52,7 +52,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PiotrMackowski"
     - label: "E-mail"
-      icon: "fab fa fa-envelope"
+      icon: "fa-solid fa-square-envelope"
       url: "mailto:YmxvZ0A1Z3h2Mm0ub25taWNyb3NvZnQuY29t"
 
 defaults:
