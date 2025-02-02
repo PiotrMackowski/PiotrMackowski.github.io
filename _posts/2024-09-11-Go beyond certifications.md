@@ -31,7 +31,7 @@ While the aforementioned options are very accessible and easy to get started wit
 
 I happen to live in Warsaw at the moment, and there is a lot happening; 
 - [ISC2 Chapter Poland](https://isc2chapter-poland.com/)
-- [DC4822 | Official Warsaw DEFCON Group](https://dc4822.org/)
+- [DC4822 - Official Warsaw DEFCON Group](https://dc4822.org/)
 - [ISSA Polska](https://local.issa.org.pl/)
 - [OWASP](https://owasp.org/www-chapter-poland/)
 - [Crossweb - overview of all events](https://crossweb.pl/en/events/warszawa/it/)
