@@ -35,7 +35,7 @@ Prepare questions based on the information you have found. *While researching th
 
 Now it's time to move on to the tech stack. Your job description is the starting point. Then, go on a high level through other job descriptions (like DevOps, SRE's, IAM, network, compliance, system engineering, developers and data) to get an idea of the ecosystem. Once you have exhausted those, tools like Shodan, Censys or ZoomEye can be helpful to have a look from a slightly different angle. Do they have HTTPS, HSTS and a CSP everywhere? Say you're interviewing for a position at Tripadvisor, and the topic of system design comes up. Well, obviously a reliable service needs to have some kind of bot protection and CAPTCHA's, so this is where DataDome comes in. The Envoy proxy - API gateway and load balancing, cloud native at the edge. Fastly is the CDN of choice. Instead of starting the discussion from scratch, disclose what your understanding of their system is, and consider asking the interviewer to fill in the missing parts. 
 
-![Tripadvisor - Shodan results](assets/images/Tripadvisor.JPG)
+![Tripadvisor - Shodan results](/assets/images/Tripadvisor.JPG)
 Recall the fragmented environment as a result of mergers and acquisitions discussed earlier. The below table might reflect those legacy systems the company failed to kill or actual honeypots. 
 
 | Top Products               | Count |
