@@ -1,4 +1,3 @@
-
 ---
 title: OSINT your future employer
 tags:
@@ -36,7 +35,7 @@ Prepare questions based on the information you have found. *While researching th
 
 Now it's time to move on to the tech stack. Your job description is the starting point. Then, go on a high level through other job descriptions (like DevOps, SRE's, IAM, network, compliance, system engineering, developers and data) to get an idea of the ecosystem. Once you have exhausted those, tools like Shodan, Censys or ZoomEye can be helpful to have a look from a slightly different angle. Do they have HTTPS, HSTS and a CSP everywhere? Say you're interviewing for a position at Tripadvisor, and the topic of system design comes up. Well, obviously a reliable service needs to have some kind of bot protection and CAPTCHA's, so this is where DataDome comes in. The Envoy proxy - API gateway and load balancing, cloud native at the edge. Fastly is the CDN of choice. Instead of starting the discussion from scratch, disclose what your understanding of their system is, and consider asking the interviewer to fill in the missing parts. 
 
-![[Pasted image 20250327194647.png]]
+![Tripadvisor - Shodan results](assets/images/Tripadvisor.JPG)
 Recall the fragmented environment as a result of mergers and acquisitions discussed earlier. The below table might reflect those legacy systems the company failed to kill or actual honeypots. 
 
 | Top Products               | Count |
@@ -45,17 +44,19 @@ Recall the fragmented environment as a result of mergers and acquisitions discus
 | SQL Server Browser Service | 19    |
 | Lotus Domino httpd         | 1     |
 | Apache httpd               | 1     |
+
 Google dorks could go either way in my experience. I wouldn't spend a lot of time here, but you can just get lucky. After all, “luck is what happens when preparation meets opportunity.”
 Try the following to discover subdomains and specific URL's:
 - `site:*.*.target[.]com`
 - `inurl:config | inurl:dev | inurl:test | inurl:backup | inurl:admin | inurl:integration site:target[.]com`
+
 If there's a public bug bounty program, take note of the scope. The larger the scope, the more challenging it is to sustain the program. You can enquire whether there're plans to expand the scope. The hardened, core environment, which is subject to certain audits, is most likely in scope, whereas less critical parts are not. 
 
 Once you have a general idea of what is going on, it's time to dive deeper into individuals, who make it all happen. By going through LinkedIn profiles you should be able to establish a mind map who works with who and which people specialize in what. Often the experience section can offer some insight into what projects or initiatives have been conducted. If someone is active on the platform, pay attention to the latest mentions, comments, (company) events and posts. GitHub is also worth a shot. 
 
 The last, but not least, for sure the most time consuming part: conferences, meetups, books, blogs and podcasts. This can be a lot to go through, so just focus on what or who interests you. If you have attended conferences in the past, there's a good chance you still have access to the recordings. If you did not, perhaps you can pay to receive access, or buy a ticket for the next edition, which comes with the access to the recordings of the past edition(s). Check YouTube for openly available content. If the team is active in the community, just being aware of what is happening is already an advantage. On a side note, if you have been a speaker at an event and it was recorded, you can count on people to grab a meeting room to watch it together. 
 
-I hope I have equipped you with a few ideas you wouldn't have considered otherwise. In general - outcomes may vary, try and see what works for you the best :)
+I hope I have equipped you with a few ideas you wouldn't have considered otherwise. In general - outcomes may vary, try and see what works for you the best.
 
 
 
