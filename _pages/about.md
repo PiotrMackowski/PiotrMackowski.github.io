@@ -6,7 +6,7 @@ title: ""
 # Hi, I'm Piotr
 
 ## **I am passionate about cloud security**
-- I work as an IT Security Specialist at Allegro. 
+- I work as a Cybersecurity Engineer at Allegro. 
 - I am currently exploring Azure, AWS, GCP and AI security concepts. 
 - I am always eager to connect with others, please feel free to reach out to me for a chat.
 
@@ -15,7 +15,6 @@ This is my personal site and content is my own. The views and opinions expressed
 <h2>Certifications and Achievements 🏅</h2>
 
 - [Credly](https://www.credly.com/users/piotr-mackowski)
-- [Microsoft](https://learn.microsoft.com/en-us/users/piotrmackowski/transcript/vn690bre8m1rjpp)
 
 
 <p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
