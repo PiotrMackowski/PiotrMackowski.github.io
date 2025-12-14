@@ -10,6 +10,7 @@ This is a collection of valuable resources that I've found helpful throughout my
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
 - [CloudSecDocs](https://cloudsecdocs.com/)
 - [Cloud Security Wiki](https://www.secwiki.cloud/)
+- [pwnlabs.io](https://pwnlabs.io/) - hands-on cloud security labs
 
 ### Azure
 - [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy)
@@ -68,6 +69,9 @@ This is a collection of valuable resources that I've found helpful throughout my
  - [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=84f0ae2af5fe4a69)
  - [Cloud Security Podcast](https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I?si=3f27a4242bfc4b3a)
  - [The Azure Security Podcast](https://open.spotify.com/show/6AZVRZWttZdYkvlSAXjiGK?si=32c32230a75749a3)
+ - [CTO Morning Coffee (PL)](https://www.ctomorning.coffee/)
+ - [Patoarchitekci (PL)](https://patoarchitekci.io/)
+
 
 ## Personal development
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
@@ -81,14 +85,14 @@ This is a collection of valuable resources that I've found helpful throughout my
 ## Miscellaneous
 - [Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 - [GitHub Education - for students](https://github.com/education)
-- [Security automation blog](https://www.infernux.no/)
+- [Microsoft Security automation blog by Truls Dahlsveen](https://www.infernux.no/)
 - [Nick Jones's blog](https://www.nojones.net/)
 - [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/)
 - [Cyber Security Roadmap](https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Google's SRE Books](https://sre.google/books/)
 
-## Blog
+## This Blog
 - [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/)
 - [Jekyll wiki](https://jekyllrb.com/docs/themes/#overriding-theme-defaults)
 - [Icons](https://fontawesome.com/icons)
