@@ -53,7 +53,7 @@ This is a collection of valuable resources that I've found helpful throughout my
 ## Communities, events, networking
 
 ### Global:
- -  [InfoSecMap](https://infosecmap.com/)
+ - [InfoSecMap](https://infosecmap.com/)
  - [Crossweb](https://crossweb.pl/en/events/warszawa/it/)
  - [Meetup](https://www.meetup.com/)
  - [fwd:cloudsec](https://fwdcloudsec.org/)
@@ -63,7 +63,7 @@ This is a collection of valuable resources that I've found helpful throughout my
  - [r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
  - [r/netsec](https://www.reddit.com/r/netsec/)
  - [Microsoft's Security Connection Program](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-new-microsoft-security-connection-program/ba-p/3733595)
- 
+
 ### Poland-based:
  - [ISSA Polska Events list](https://local.issa.org.pl/spotkania/lista/) 
  - [Oh My Hack](https://omhconf.pl/)
