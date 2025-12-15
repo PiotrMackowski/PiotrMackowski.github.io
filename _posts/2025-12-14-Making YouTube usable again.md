@@ -28,6 +28,7 @@ For an enhanced experience, I recommend installing Firefox with the following ex
 - [Privacy Badger](https://privacybadger.org/)
 - [DeArrow - Better Titles and Thumbnails](https://dearrow.ajay.app/)
 - [SponsorBlock](https://sponsor.ajay.app/)
+
 In Firefox privacy settings, available at about:preferences#privacy:
 - Enable strict tracking protection
 	- Uncheck 'Fix major site issues'
@@ -38,6 +39,7 @@ In Firefox privacy settings, available at about:preferences#privacy:
 	- 'Send technical and interaction data to Mozilla'
 	- 'Send daily usage ping to Mozilla'
 	- 'Automatically send crash reports'
+
 To support content creators, consider donating directly.
 
 On a closing note, YouTube is by no means an exception. Surveillance capitalism is a business model where companies collect data and monetize users by selling their future behavior. The user experience must be degraded to make the platform more addictive, thus ensuring the platform continues to grow. Therefore, we should all make an effort to educate ourselves and others to consciously interact with the product, rather than being the product.
