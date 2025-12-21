@@ -6,7 +6,7 @@ author_profile: false
 
 This is a collection of valuable resources that I've found helpful throughout my journey. While it may not capture everything that's out there, I aim to include only those resources that I have personally used and can genuinely vouch for. There are no referral links, and the resources are listed in no particular order.
 
-## Cloud
+## Cloud agnostic
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
 - [CloudSecDocs](https://cloudsecdocs.com/)
 - [Cloud Security Wiki](https://www.secwiki.cloud/)
@@ -104,17 +104,6 @@ This is a collection of valuable resources that I've found helpful throughout my
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 - [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
-## Miscellaneous
-- [Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
-- [GitHub Education - for students](https://github.com/education)
-- [Microsoft Security automation blog by Truls Dahlsveen](https://www.infernux.no/)
-- [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/)
-- [Cyber Security Roadmap](https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Google's SRE Books](https://sre.google/books/)
-- [Ansible 101 - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
-- [The SSO Wall of Shame](https://sso.tax/)
-
 ## Privacy
 - [Digital Defense](https://digital-defense.io/)
 - [Surveillance Self-Defense](https://ssd.eff.org/module-categories/basics)
@@ -135,6 +124,21 @@ I recommend refraining from official ISC2 materials, as they tend to be expensiv
 - [Andrew Ramdayal: 50 CISSP practice questions](https://www.youtube.com/watch?v=qbVY0Cg8Ntw)
 - [Larry Greenblatt: CISSP semantics](https://www.youtube.com/watch?v=HWg2geVJuvs)
 
+## Non-fiction books on security
+- [The Cuckoo’s Egg by Clifford Stoll](https://cybercanon.org/the-cuckoos-egg/) - a classic
+- [Sandworm by Andy Greenberg](https://cybercanon.org/sandworm-a-new-era-of-cyberwar-and-the-hunt-for-the-kremlins-most-dangerous-hackers/) - APTs
+- [This Is How They Tell Me the World Ends by Nicole Perlroth](https://cybercanon.org/this-is-how-they-tell-me-the-world-ends/) - zero-day market
+
+## Miscellaneous
+- [Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [GitHub Education - for students](https://github.com/education)
+- [Microsoft Security automation blog by Truls Dahlsveen](https://www.infernux.no/)
+- [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/)
+- [Cyber Security Roadmap](https://roadmap.sh/pdfs/roadmaps/cyber-security.pdf)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Google's SRE Books](https://sre.google/books/)
+- [Ansible 101 - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
+- [The SSO Wall of Shame](https://sso.tax/)
 
 ## This Blog
 - [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/)
