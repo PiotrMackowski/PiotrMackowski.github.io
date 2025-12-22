@@ -9,7 +9,7 @@ How can you leverage the [Microsoft Secure Score](https://learn.microsoft.com/en
 
 *Your secure score is 52%, whereas organizations like yours score just 45%.*
 
-Whether it's your job to set goals or to achieve them, the recommendations offer out of the box specific, measurable and relevant objectives. Upon closing them it's a piece of cake to communicate the value and the impact you have had on the security of your tenant. 
+Whether it's your job to set goals or to achieve them, the recommendations offer out of the box specific, measurable and relevant objectives. Upon closing them it's straightforward to communicate the value and the impact you have had on the security of your tenant. 
 
 The exact set of recommendations depends on your tenant, i.e. what products you have licensed. A full-blown Enterprise Mobility + Security E3/E5 setup should result in a somewhat similar distribution of recommendations across Microsoft's products like below. 
 
@@ -42,4 +42,4 @@ For example, Teams allows by default communication with external domains, yet th
 External users could exploit this functionality to verify active email addresses, initiate conversations on Teams, impersonate trusted contacts, or send malicious links and attachments with the intent to compromise devices or accounts. Additionally, this configuration enables external monitoring of user availability status and retrieval of Out of Office messages if configured. To mitigate these risks, you must restrict Teams communication to specific, trusted external domains - if external communication through Teams is required at all.
 
 ### The way forward
-I recommend you position the Secure Score as just one of the health indicators, but beware and do not let it become the definition of your security program. Use it to drive the initial conversations and clear the low-hanging fruit, but recognize and be open about its limitations. 
+I recommend you position the Secure Score as one of the health indicators, but do not let it become the definition of your security program. Use it to drive the initial conversations and clear the low-hanging fruit, but recognize and be open about its limitations. 
