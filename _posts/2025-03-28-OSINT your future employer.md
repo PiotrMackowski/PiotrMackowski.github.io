@@ -37,7 +37,7 @@ Prepare questions based on the information you have found. *While researching th
 
 Now it's time to move on to the tech stack. Your job description is the starting point. Then, go on a high level through other job descriptions (like DevOps, SRE's, IAM, network, compliance, system engineering, developers and data) to get an idea of the ecosystem. Once you have exhausted those, tools like Shodan, Censys or ZoomEye can be helpful to have a look from a slightly different angle. Do they have HTTPS, HSTS and a CSP everywhere? Say you're interviewing for a position at Tripadvisor, and the topic of system design comes up. Well, obviously a reliable service needs to have some kind of bot protection and CAPTCHA's, so this is where DataDome comes in. The Envoy proxy handles the API gateway and load balancing at the edge. Fastly is the CDN of choice. Instead of starting the discussion from scratch, disclose what your understanding of their system is, and consider asking the interviewer to fill in the missing parts. 
 
-![Tripadvisor - Shodan results](/assets/images/Tripadvisor.JPG)
+![Tripadvisor - Shodan results](/assets/images/Tripadvisor.jpg)
 Recall the fragmented environment as a result of mergers and acquisitions discussed earlier. The below table might reflect those legacy systems the company failed to kill or actual honeypots. 
 
 | Top Products               | Count |
@@ -49,7 +49,7 @@ Recall the fragmented environment as a result of mergers and acquisitions discus
 
 DNS records often provide an interesting angle at SaaS integrations. A personal favorite of mine to check those is [web-check.xyz](https://web-check.xyz/), as it queries a holistic overview with stuff like security.txt in one click. Depending on the maturity of the company you can expect some of those records to be forgotten and left for the eternity or actually planted to deceive you. Most of these records serve a purpose that we can use to our advantage. Imagine yourself on the interview discussing a hypothetical security awareness campaign. It would make sense to craft one somewhat aligned to what users actually tend to interact with on a daily basis, wouldn't it? So instead of the usual M365 login page, you say you have checked their DNS records, and therefore, you propose two scenarios like _Dropbox - someone has shared a file_ and _Docusign - HR documents about to expire_ campaign.     
 
-![DNS records](/assets/images/dnsrecords.JPG)    
+![DNS records](/assets/images/dnsrecords.jpg)    
 
 Multi tenant SaaS solutions often follow a standard convention for their subdomains. Enumeration of those is straightforward and true positives are highly accurate:
 - company.pagerduty.com
