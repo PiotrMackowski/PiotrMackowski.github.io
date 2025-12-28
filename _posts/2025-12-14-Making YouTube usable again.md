@@ -21,7 +21,7 @@ The above exercise will result in a clean home page with no recommendations, no 
 
 ![Cleaner YouTube](/assets/images/ywa.jpg)
 
-Also, while you're at it, it might be worthwhile to delete any [interactions](https://myactivity.google.com/product/youtube/interactions) you have associated with your account, but it's slightly more work, as you must delete each category separately. An argument can be made for using the platform without an account, but you won't have the clean user experience displayed above and your subscriptions feed.
+Also, while you're at it, it might be worthwhile to delete any [interactions](https://myactivity.google.com/product/youtube/interactions) you have associated with your account, but it's slightly more work, as you must delete each category separately. An argument can be made for using the platform without an account, but you won't have the clean user experience displayed above and your subscriptions feed. The alternative is a custom frontend like [Invidious](https://yewtu.be/) and RSS feeds. YouTube used to have a built-in RSS button, but it was removed to encourage us to use the platform. Although the button disappeared, the feeds did not. [Here](https://chuck.is/yt-rss/) is a short guide on how to get the RSS feed for any YouTube channel.     
 
 For an enhanced experience, I recommend installing Firefox with the following extensions:
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)
@@ -40,6 +40,6 @@ In Firefox privacy settings, available at about:preferences#privacy:
 	- 'Send daily usage ping to Mozilla'
 	- 'Automatically send crash reports'
 
-To support content creators, consider donating directly.
+To support content creators, consider donating directly. 
 
 On a closing note, YouTube is by no means an exception. Surveillance capitalism is a business model where companies collect data and monetize users by selling their future behavior. The user experience must be degraded to make the platform more addictive, thus ensuring the platform continues to grow. Therefore, we should all make an effort to educate ourselves and others to consciously interact with the product, rather than being the product.
