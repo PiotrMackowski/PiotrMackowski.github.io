@@ -3,7 +3,8 @@ title: There is no convenient sovereign cloud
 tags:
   - Sovereignty
   - Geopolitics
-  - OpenSource
+  - OSS
+  - Cloud
 ---
 For years, Europeans have lived comfortably, storing and processing data on servers located in the EU, i.e. on servers physically in the EU, but legally controlled by foreign entities. We celebrated compliance audits and built data centers across the continent, believing that physical location equaled digital safety. But what good is data residency compliance if you cannot be certain you can access your data tomorrow?
 
