@@ -54,6 +54,9 @@ author:
     - label: "E-mail"
       icon: "fa-solid fa-square-envelope"
       url: "mailto:YmxvZ0A1Z3h2Mm0ub25taWNyb3NvZnQuY29t"
+    - label: "RSS"
+      icon: "fas fa-fw fa-rss"
+      url: "/feed.xml"  
 
 defaults:
   # _posts
