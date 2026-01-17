@@ -44,7 +44,6 @@ author:
   name   : "Piotr Maćkowski"
   avatar : "/assets/images/personal-photo.jpg"
   bio    : "let’s ship this in the most secure way possible"
-  location: "Warsaw, Poland"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
