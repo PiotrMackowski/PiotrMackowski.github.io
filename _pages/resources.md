@@ -91,7 +91,6 @@ This is a collection of valuable resources that I've found helpful throughout my
  - [CyberWire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe?si=77a3a53d1e714763)
  - [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=84f0ae2af5fe4a69)
  - [Cloud Security Podcast](https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I?si=3f27a4242bfc4b3a)
- - [The Azure Security Podcast](https://open.spotify.com/show/6AZVRZWttZdYkvlSAXjiGK?si=32c32230a75749a3)
  - [CTO Morning Coffee (PL)](https://www.ctomorning.coffee/)
  - [Patoarchitekci (PL)](https://patoarchitekci.io/)
 
