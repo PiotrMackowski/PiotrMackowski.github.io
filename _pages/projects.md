@@ -4,8 +4,10 @@ title: "Projects"
 author_profile: false 
 ---
 
+Tools I have built to solve issues I encounter.
+
 ## ClosedSSPM
-SaaS Security is often overlooked, understaffed and expensive. Even if you review the initial implementation, there's no way to keep on top of all the changes continuously. 3rd party point-in-time assessments are not fit for this by design. Your procurement pipeline of new SaaS does not account for the additional cost of SSPM tooling. I'd argue that securing the budget for enterprise licenses, which come with enterprise-grade controls, is already a win at most places.
+SaaS Security is often overlooked, understaffed and expensive. Even if you review the initial implementation, there's no way to keep on top of all the changes continuously. 3rd party point-in-time assessments are not fit for this by design. Your procurement pipeline of new SaaS does not account for the additional cost of SSPM tooling. Securing the budget for enterprise licenses, which come with enterprise-grade controls, is already a win at most places.
 
 [ClosedSSPM](https://closedsspm.com/) solves this problem for ServiceNow, Snowflake, and other platforms. It audits platforms for security misconfigurations and reports findings in HTML, JSON, CSV, or SARIF. The pluggable connector architecture allows adding new platforms without touching core code. Custom policies can be defined in YAML.
 
