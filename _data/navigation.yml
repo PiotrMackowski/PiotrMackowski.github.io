@@ -1,6 +1,8 @@
 main:
   - title: "Tags"
     url: /tags/
+  - title: "Projects"
+    url: /projects/
   - title: "Resources"
     url: /resources/
   - title: "About me"
